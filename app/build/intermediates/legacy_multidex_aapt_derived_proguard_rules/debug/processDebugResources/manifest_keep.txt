@@ -1,0 +1,4 @@
+# Referenced at G:\Dev Stuff\qscanner-13\codecanyon-22550108-qscanner-qr-barcode-pro\QScanner Project 1.3\QScanner\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:52
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at G:\Dev Stuff\qscanner-13\codecanyon-22550108-qscanner-qr-barcode-pro\QScanner Project 1.3\QScanner\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:52
+-keep class com.henil.scanit.Base { <init>(); }
